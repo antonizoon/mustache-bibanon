@@ -2,7 +2,7 @@ $LOAD_PATH.unshift 'lib'
 require 'mustache/version'
 
 Gem::Specification.new do |s|
-  s.name              = "mustache"
+  s.name              = "mustache-bibanon"
   s.version           = Mustache::Version
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           =

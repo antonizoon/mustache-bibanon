@@ -1,3 +1,7 @@
+## 0.99.5 (2012-02-05)
+
+* Sinatra: `mustache` takes a View class to skip lookups.
+
 ## 0.99.4 (2011-05-26)
 
 * Reverted automatically attr_accessors in Sinatra. Too much magic.
